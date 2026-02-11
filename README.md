@@ -1,3 +1,4 @@
+<img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/114a5b24-17c2-4b89-bf0e-d77608406b95" />
 # Travel Activity Ranking Application
 
 ## Overview
