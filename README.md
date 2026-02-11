@@ -1,4 +1,5 @@
-<img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/114a5b24-17c2-4b89-bf0e-d77608406b95" />
+
+
 # Travel Activity Ranking Application
 
 ## Overview
@@ -193,6 +194,10 @@ These were consciously deprioritized in favor of structural clarity and
 architectural soundness.
 
 ------------------------------------------------------------------------
+
+# ScreenShots
+<img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/114a5b24-17c2-4b89-bf0e-d77608406b95" />
+<img width="1916" height="859" alt="image" src="https://github.com/user-attachments/assets/52dd00ea-7993-4e8b-9980-6c586f571411" />
 
 # AI Usage
 
